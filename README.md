@@ -18,7 +18,7 @@ Text Editors:
 
 For Wordpress or Statamic:
 
-- [MAMP](http://www.mamp.info) - For creating a local development environment for Wordpress and Statamic. I run php/database driven sites from my /sites folder which requires a change in the MAMP settings.
+- [MAMP](http://www.mamp.info) - For creating a local development environment for Wordpress and Statamic. I run php/database driven sites from my `/sites` folder which requires a change in the MAMP settings.
 
 For deployment/version control:
 
