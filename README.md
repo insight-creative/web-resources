@@ -9,6 +9,7 @@ Tools I use to make development efficient and fun and iterative:
 - [Base theme](https://github.com/kmcgillivray/base-theme) - I made this Jekyll theme to get started on Jekyll sites faster. It's extremely simple, but includes all the basic set up that I would have to do every time I start a site, but with out all the clutter of the default theme that comes with Jekyll.
 - [typography.css](https://github.com/kmcgillivray/typography.css) - I use this set of typography CSS on basically every site as a starting point and tweak it for the specific site I'm using it on. It's already included in the Base Theme. It includes nice spacing between headings, paragraphs, lists, etc., nice and simple font scaling styles for responsiveness, readable line lengths and font sizes, etc.
 - [Typekit](http://typekit.com) - Included in our Creative Cloud membership. No more boring fonts. Easy to sync fonts to your computer and use them on websites.
+- [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/) - Easy to use set of icons, including social media icons.
 
 Text Editors:
 
