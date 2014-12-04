@@ -32,7 +32,7 @@ People I follow/other resources:
 - [@mdo](http://markdotto.com) - Mark Otto, creator of bootstrap, from Wisconsin!
 - [Code Guide](http://codeguide.co) - Made by mdo, advice for consistency and readable HTML and CSS, especially for collaborators, but useful any time.
 - [Hidden Files](http://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/) - Every so often I want to see the hidden files on my computer, usually when I'm working with the hidden `.git` folder and stuff like that. This article has a helpful alias you can set up to make toggling hidden files easy.
-- 
+
 # Email Development Tools and Resources
 
 Concepts & resources for creating effective, functional emails.
