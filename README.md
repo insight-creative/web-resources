@@ -37,5 +37,4 @@ People I follow/other resources:
 
 Concepts & resources for creating effective, functional emails.
 
-- [Wistia Guide to video in email](http://wistia.com/content/using-video-in-email)
-- Great guide not only to the integration of video in email, but 3 great templates as well.
+- [Wistia Guide to video in email](http://wistia.com/content/using-video-in-email) - Great guide not only to the integration of video in email, but 3 great templates as well.
