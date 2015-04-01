@@ -20,6 +20,7 @@ Text Editors:
 For Wordpress or Statamic:
 
 - [MAMP](http://www.mamp.info) - For creating a local development environment for Wordpress and Statamic. I run php/database driven sites from my `/sites` folder which requires a change in the MAMP settings.
+- [Layers](http://www.layerswp.com/) - a Wordpress site building 'theme' allowing you to build your site modularly.
 
 For deployment/version control:
 
